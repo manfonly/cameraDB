@@ -1,0 +1,21 @@
+{
+  "name": "cameradb",
+  "version": "1.0.0",
+  "description": "Camera compare database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "RESTful"
+  ],
+  "author": "Yiyun Meng",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3"
+  }
+}
