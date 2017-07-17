@@ -13,5 +13,5 @@ var cameraSchema = new Schema({
 	}
 });
 
-module.exports = mongoose.model('Camera', cameraSchema);
+module.exports = mongoose.model('Cameras', cameraSchema);
 
