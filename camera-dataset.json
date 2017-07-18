@@ -6,7 +6,7 @@
     "resolution": "12M",
     "maker": "Apple",
     "mobile": true
-  },
+  }
   {
     "name": "MX 6 Pro",
     "size": "1/2.9 inch",
@@ -15,7 +15,7 @@
     "resolution": "12M",
     "maker": "Meizu",
     "mobile": true
-  },
+  }
   {
     "name": "iphone6",
     "size": "1/3 inch",
@@ -24,7 +24,7 @@
     "resolution": "12M",
     "maker": "Apple",
     "mobile": true
-  },
+  }
   {
     "name": "mate9",
     "size": "unknown",
@@ -33,7 +33,7 @@
     "resolution": "12M",
     "maker": "Huawei",
     "mobile": true
-  },
+  }
   {
     "name": "Rx1RII",
     "size": "FULL_SIZE",
@@ -42,25 +42,25 @@
     "resolution": "42M",
     "maker": "Sony",
     "mobile": false
-  },
+  }
   {
     "name": "Rx100M5",
-    "size": ONE_TYPE,
+    "size": "ONE_TYPE",
     "lens": "24mm-70mm",
     "score": 70,
     "resolution": "20.1M",
     "maker": "Sony",
     "mobile": false
-  },
+  }
   {
     "name": "Rx10M3",
-    "size": ONE_TYPE,
+    "size": "ONE_TYPE",
     "lens": "24mm-600mm",
     "score": 70,
     "resolution": "20.1M",
     "maker": "Sony",
     "mobile": false
-  },
+  }
   {
     "name": "Hero5",
     "size": "1/2.3 inch",
@@ -69,7 +69,7 @@
     "resolution": "12M",
     "maker": "Gopro",
     "mobile": false
-  },
+  }
   {
     "name": "A7r2",
     "size": "FULL_SIZE",
@@ -78,7 +78,7 @@
     "resolution": "42M",
     "maker": "Sony",
     "mobile": false
-  },
+  }
   {
     "name": "5dm4",
     "size": "FULL_SIZE",
@@ -87,16 +87,16 @@
     "resolution": "30.6M",
     "maker": "Canon",
     "mobile": false
-  },
+  }
   {
     "name": "phantom 4 pro",
-    "size": ONE_TYPE,
+    "size": "ONE_TYPE",
     "lens": "24mm",
     "score": 65,
     "resolution": "20.1M",
     "maker": "DJI",
     "mobile": false
-  },
+  }
   {
     "name": "phantom 4",
     "size": "1/2.3 inch",
@@ -105,7 +105,7 @@
     "resolution": "12M",
     "maker": "DJI",
     "mobile": false
-  },
+  }
   {
     "name": "D5",
     "size": "FULL_SIZE",
@@ -114,7 +114,7 @@
     "resolution": "20.8M",
     "maker": "Nikon",
     "mobile": false
-  },
+  }
   {
     "name": "A9",
     "size": "FULL_SIZE",
@@ -123,7 +123,7 @@
     "resolution": "24.2M",
     "maker": "Sony",
     "mobile": false
-  },
+  }
   {
     "name": "A6300",
     "size": "APSC",
@@ -132,7 +132,7 @@
     "resolution": "24.2M",
     "maker": "Sony",
     "mobile": false
-  },
+  }
   {
     "name": "A6500",
     "size": "APSC",
@@ -141,7 +141,7 @@
     "resolution": "24.2M",
     "maker": "Sony",
     "mobile": false
-  },
+  }
   {
     "name": "GH5",
     "size": "MFT",
@@ -150,7 +150,7 @@
     "resolution": "20.3M",
     "maker": "Panasonic",
     "mobile": false
-  },
+  }
   {
     "name": "LX100",
     "size": "MFT",
@@ -159,7 +159,7 @@
     "resolution": "12M",
     "maker": "Panasonic",
     "mobile": false
-  },
+  }
   {
     "name": "U11",
     "size": "1/2.55 inch",
@@ -168,7 +168,7 @@
     "resolution": "12M",
     "maker": "UTC",
     "mobile": true
-  },
+  }
   {
     "name": "Galaxy S8",
     "size": "1/2.55 inch",
@@ -177,7 +177,7 @@
     "resolution": "12M",
     "maker": "Samsung",
     "mobile": true
-  },
+  }
   {
     "name": "D810",
     "size": "FULL_SIZE",
