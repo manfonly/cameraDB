@@ -1,7 +1,7 @@
 'use strict';
 
 var mongoose = require('mongoose'),
-	cameras = mongoose.model('cameras');
+	cameras = mongoose.model('Cameras');
 
 exports.list_all_cameras = function(req, res) {
 	cameras.find({}, function(err, camera) {
