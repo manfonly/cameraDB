@@ -7,5 +7,7 @@ module.exports = function(app) {
 		.get(cameraDB.list_all_cameras);
 	app.route('/findCamera/:cameraName')
 		.get(cameraDB.find_a_camera);
+	app.route('/rankCamera/:isMobile')
+		.get(cameraDB.rank_camera);
 };
 
