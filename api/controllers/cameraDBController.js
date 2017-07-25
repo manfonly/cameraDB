@@ -25,7 +25,7 @@ exports.find_a_camera = function(req, res) {
 
 exports.rank_camera = function(req, res) {
 	cameras.find({mobile: req.params.isMobile}).sort({score: -1})
-	.limit(5).select('maker name score').exec(function(err, ranks) {
+	.limit(parseInt(req.params.limits)).select('maker name score').exec(function(err, ranks) {
 		if (err) {
 			res.send(err);
 		} else {
